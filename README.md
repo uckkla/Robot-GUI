@@ -20,6 +20,7 @@ The GUI Provided allows for users to view and control what robots are added.
 ## Known issues
 - Robots will occassionally get stuck on the arena walls or with other robots. Can be unstuck by dragging the robot to a different part of the arena.
 - Hungry robots can sometimes be unpredictable when colliding with other robots, as sometimes it changes direction while other times continues onwards.
+- ArenaItem needs to be reimplemented, it utilises the Canvas class when it should not need to.
 
 ## How it's made
 - **Creating GUI**: Using JavaFX, I created a window which has an about me section, buttons that were not in use yet and other empty toolbar options.
