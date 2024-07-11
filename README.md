@@ -4,6 +4,8 @@
 This project is a robot simulation which utilises the GUI JavaFX with Java, where a variety of robots roam around an arena.
 The GUI Provided allows for users to view and control what robots are added.
 
+![image](https://github.com/uckkla/Robot-GUI/assets/135323891/6fc67091-f2d2-4184-87df-b1a40f33a682)
+
 ## Features
 - **Multiple Robot Types**: The simulation provides a variety of robot types, such as the "standard robot", "hungry robot" and "controllable robot." Each of these robots have their own characteristics, such as being manually controlled by the user, or eating other robots in its way.
 - **User interaction**: Robots can be interacted through the GUI by dragging them across the arena. More robots can be added and selected robots can be removed through tbe buttons provided. The simulation can be paused, continued or restarted so all the robots are taken off the arena.
