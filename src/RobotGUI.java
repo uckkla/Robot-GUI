@@ -228,7 +228,7 @@ public class RobotGUI extends Application{
 	 * About section
 	 */
     private void showAbout() {
-    	String message = "Dijan's Robot Simulation. Student Number: 31007786";
+    	String message = "Uckkla's Robot Simulation.";
     	showMessage("About", message);
     }
     
